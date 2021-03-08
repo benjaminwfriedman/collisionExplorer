@@ -1,0 +1,24 @@
+﻿code,type
+3001,T/C - Veh vs Non-collision
+3002,T/C - Officer Involved T/C
+3003,T/C - Veh vs Ped
+3004,T/C - Veh vs Veh
+3005,T/C - Veh vs Veh on other roadway
+3006,T/C - Veh vs Parked Veh
+3007,T/C - Veh vs Train
+3008,T/C - Veh vs Bike
+3009,T/C - Veh vs M/C
+3010,T/C - Veh vs Animal
+3011,T/C - Veh vs Fixed Object
+3012,T/C - Veh vs Other Object
+3013,T/C - M/C vs Veh
+3014,T/C - M/C vs Fixed Object
+3015,T/C - M/C vs Other
+3016,T/C - Bike vs Veh
+3017,T/C - Bike vs Train
+3018,T/C - Bike vs Other
+3019,T/C - Train vs Veh
+3020,T/C - Train vs Train
+3021,T/C - Train vs Bike
+3022,T/C - Train vs Ped
+3023,T/C - Train vs Fixed Object
